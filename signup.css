@@ -1,0 +1,42 @@
+
+html{
+    color:yellowgreen;
+    font-family: sans-serif;
+    text-align: left;
+}
+#fname{
+    border-radius:3px;
+    margin-left: 20px;
+    border: 2px solid teal;
+
+}
+#email{
+    border-radius:3px;
+    margin-left: 20px;
+    border: 2px solid teal;
+
+}
+#pwd{
+    border-radius:3px;
+    margin-left: 20px;
+    border: 2px solid teal;
+
+}
+#phone{
+    border-radius:3px;
+    margin-left: 20px;
+    border: 2px solid teal;
+
+}
+body
+{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 1300px 670px;
+}
+.next{
+    border-radius: 6px;
+    border: 2px solid yellowgreen;
+    margin-top: 10px;
+    margin-left: 137px;
+}
